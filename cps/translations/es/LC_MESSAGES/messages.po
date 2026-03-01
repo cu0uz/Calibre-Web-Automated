@@ -1094,7 +1094,7 @@ msgstr ""
 
 #: cps/cwa_functions.py:2031
 msgid "Single-book EPUB Fixer is not supported with Google Drive libraries."
-msgstr ""
+msgstr "El programa EPUB Fixer para libros individuales no es compatible con las bibliotecas de Google Drive."
 
 #: cps/cwa_functions.py:2038
 #, fuzzy
@@ -1123,7 +1123,7 @@ msgstr "Fusionar libros seleccionados"
 
 #: cps/cwa_functions.py:2072
 msgid "Failed to start EPUB Fixer for selected book."
-msgstr ""
+msgstr "No se pudo iniciar el programa EPUB Fixer para el libro seleccionado."
 
 #: cps/cwa_functions.py:2119
 msgid "You must be an admin to access this page."
@@ -1215,7 +1215,7 @@ msgstr "Rol inválido"
 msgid ""
 "Ingest folder is not writable. Check your /cwa-book-ingest volume "
 "permissions."
-msgstr ""
+msgstr "La carpeta de ingesta no tiene permisos de escritura. Compruebe los permisos de volumen de /cwa-book-ingest."
 
 #: cps/editbooks.py:121
 msgid "Missing or invalid book id for format upload"
@@ -1515,7 +1515,7 @@ msgstr ""
 #: cps/helper.py:1053 cps/helper.py:1061
 #, python-format
 msgid "Cover image exceeds maximum size of %(size)s MB"
-msgstr ""
+msgstr "La imagen de portada supera el tamaño máximo de %(size)s MB."
 
 #: cps/helper.py:1072
 msgid "Error Downloading Cover"
@@ -5109,7 +5109,7 @@ msgstr ""
 #: cps/templates/cwa_settings.html:765
 #, fuzzy
 msgid "Sync Magic Shelves to Kobo"
-msgstr "Sincronizar estanterías seleccionadas con Kobo"
+msgstr "Sincronizar Magic Shelves con Kobo."
 
 #: cps/templates/cwa_settings.html:767
 msgid ""
@@ -7198,14 +7198,17 @@ msgstr ""
 
 #: cps/templates/user_edit.html:228
 msgid "Enable Send-to-eReader Pop-up Modal"
-msgstr ""
+msgstr "Habilitar ventana emergente de envío a eReader."
 
 #: cps/templates/user_edit.html:230
 msgid ""
 "Enables or disables the Send-to-eReader Pop-up Modal that allows users to "
 "enter extra email addresses and only send to a selection of saved addresses "
 "when sending to eReader."
-msgstr ""
+msgstr "Activa o desactiva la ventana emergente "Enviar a eReader"," 
+"que permite a los usuarios introducir direcciones de correo electrónico"
+"adicionales y enviar solo a una selección de direcciones guardadas al"
+"enviar a eReader."
 
 #: cps/templates/user_edit.html:232
 #, fuzzy
@@ -7347,35 +7350,35 @@ msgstr ""
 
 #: cps/templates/user_edit.html:459
 msgid "Order Mode"
-msgstr ""
+msgstr "Modo de ordenación"
 
 #: cps/templates/user_edit.html:461
 msgid "Manual (drag to reorder)"
-msgstr ""
+msgstr "Manual (arrastrar para reordenar)"
 
 #: cps/templates/user_edit.html:462
 msgid "Name (A-Z)"
-msgstr ""
+msgstr "Nombre (A-Z)"
 
 #: cps/templates/user_edit.html:463
 msgid "Name (Z-A)"
-msgstr ""
+msgstr "Nombre (Z-A)"
 
 #: cps/templates/user_edit.html:464
 msgid "Book count (high to low)"
-msgstr ""
+msgstr "Número de libros (de mayor a menor)"
 
 #: cps/templates/user_edit.html:465
 msgid "Book count (low to high)"
-msgstr ""
+msgstr "Número de libros (de menor a mayor)"
 
 #: cps/templates/user_edit.html:466
 msgid "Created (newest first)"
-msgstr ""
+msgstr "Creados (de más reciente a más antiguo)"
 
 #: cps/templates/user_edit.html:467
 msgid "Created (oldest first)"
-msgstr ""
+msgstr "Creados (de más antiguo a más nuevo)"
 
 #: cps/templates/user_edit.html:468
 #, fuzzy
